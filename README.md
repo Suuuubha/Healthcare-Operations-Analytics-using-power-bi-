@@ -18,9 +18,6 @@ Hospital managers need a clear view of operational performance, such as [patient
 - [e.g., Average length of stay]
 - [e.g., Bed occupancy rate]
 - [e.g., Patient wait time]
-- 
-## Files
-- `[file name].pbix`: Power BI file
 
 ## Author
 Subhashini M | [LinkedIn](https://www.linkedin.com/in/subhashini-murugan) | [GitHub](https://github.com/Suuuubha)
